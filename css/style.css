@@ -212,9 +212,9 @@ body {
   .navbar .navbar-nav a:hover::after {
     transform: scaleX(0.2);
   }
-  .about .row p {
+  .about p {
     flex-wrap: wrap-reverse;
-    font-size: xx-large;
+    font-size: 100rem;
   }
 }
 
